@@ -1,6 +1,7 @@
 import firebase from 'firebase';
 require("@firebase/firestore");
 
+//troque as configurações do seu banco de dados
 const firebaseConfig = {
   apiKey: "AIzaSyB4d1XwfrH7xIa3Do3pPGK4RfFfvhEXtPc",
   authDomain: "bibliotecaeletronica-44624.firebaseapp.com",
